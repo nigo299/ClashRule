@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,sg.gcx920110.com
   - DOMAIN-SUFFIX,hs.gcx920110.com
   - DOMAIN-SUFFIX,play.charontv.com
+  - DOMAIN-SUFFIX,wf.vban.xyz
   - IP-CIDR,161.97.148.156/24,no-resolve
 # Porn
   - DOMAIN-SUFFIX,wptv.ii00.cc
@@ -20,3 +21,4 @@ payload:
 # 猫熊
   - DOMAIN-SUFFIX,pornemby.maoxiong.cloud
   - DOMAIN-SUFFIX,maoxiong.cloud
+  - DOMAIN-SUFFIX,conflux
